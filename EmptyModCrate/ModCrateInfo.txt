@@ -1,0 +1,8 @@
+!Example Mod Info File. Properties are separated from values by the symbol '='.
+Name=Your New Modcrate
+Description=This is the modcrate for you to use! You need to put something in it for it to work.
+Author=You!
+Version=v1.0
+!This is an optional comment line. It's ignored when loading this file. Start a line with ! to make a comment line.
+ModLoaderVersion=v1.1.0
+Game=CrashTS
